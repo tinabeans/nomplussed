@@ -1,0 +1,65 @@
+body {
+  font-family: 'Averta W01';
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 400;
+}
+
+* {
+  box-sixing: border-box;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Lilycat';
+  color: #F7E43F;
+}
+
+p {
+  line-height: 1.45em;
+  font-size: 1.1rem;
+
+  &.first {
+    font-size: 1.5em;
+  }
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.intro {
+  flex-basis: 100%;
+  background: #FF84BD;
+  padding: 4rem;
+}
+
+h1 {
+  font-size: 3.3rem;
+}
+
+ul.nomplussed-is {
+  font-family: "Lilycat";
+  text-transform: uppercase;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 2.5rem;
+  color: #fff;
+  line-height: 1em;
+
+  li {
+    margin: 2rem 0;
+  }
+}
+
+.main {
+  flex-basis: 100%;
+  color: #6AC4CD;
+  padding: 4rem;
+}
+
+.content {
+  max-width: 600px;
+  margin: 0 auto;
+}

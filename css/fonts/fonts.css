@@ -1,0 +1,93 @@
+/*
+This CSS resource incorporates links to font software which is the valuable copyrighted
+property of Monotype Imaging and/or its suppliers. You may not attempt to copy, install,
+redistribute, convert, modify or reverse engineer this font software. Please contact Monotype
+Imaging with any questions regarding Web Fonts:  http://www.fonts.com
+*/
+
+@import url("http://fast.fonts.net/t/1.css?apiType=css&projectid=e0172d52-4feb-478f-8b01-2ee3eab706f8");
+@font-face {
+    font-family: "Averta W01_n2";
+    src: url("averta/7c6c21a6-9153-4526-b91b-4594b8911381.eot?#iefix") format("eot")
+}
+
+@font-face {
+    font-family: "Averta W01";
+    src: url("averta/7c6c21a6-9153-4526-b91b-4594b8911381.eot?#iefix");
+    src: url("averta/7c6c21a6-9153-4526-b91b-4594b8911381.eot?#iefix") format("eot"), url("averta/dc836390-131e-464f-91e6-f9f9cf751a35.woff2") format("woff2"), url("averta/dffa0023-f2da-40e3-9919-c09dcd31d1f3.woff") format("woff"), url("averta/b2d3766f-1065-4360-bbe0-11bc8a43a958.ttf") format("truetype"), url("averta/736ffbf5-8a40-49c3-b5ea-0ec63fbdf229.svg#736ffbf5-8a40-49c3-b5ea-0ec63fbdf229") format("svg");
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Averta W01_n4";
+    src: url("averta/025b33d7-74f5-4aa8-94a0-b882e0b23521.eot?#iefix") format("eot")
+}
+
+@font-face {
+    font-family: "Averta W01";
+    src: url("averta/025b33d7-74f5-4aa8-94a0-b882e0b23521.eot?#iefix");
+    src: url("averta/025b33d7-74f5-4aa8-94a0-b882e0b23521.eot?#iefix") format("eot"), url("averta/166ce875-a649-4826-a5a0-a24f2dd89cd5.woff2") format("woff2"), url("averta/fc417db9-6d91-4c85-81b1-2ff3d583d149.woff") format("woff"), url("averta/04ba64d0-f98c-415f-a1a9-c785f3e94181.ttf") format("truetype"), url("averta/c2799039-228f-4459-b007-e6b4fdcd65e7.svg#c2799039-228f-4459-b007-e6b4fdcd65e7") format("svg");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Averta W01_i4";
+    src: url("averta/e8ec87f6-0e29-450c-a79e-91fb8932fb4d.eot?#iefix") format("eot")
+}
+
+@font-face {
+    font-family: "Averta W01";
+    src: url("averta/e8ec87f6-0e29-450c-a79e-91fb8932fb4d.eot?#iefix");
+    src: url("averta/e8ec87f6-0e29-450c-a79e-91fb8932fb4d.eot?#iefix") format("eot"), url("averta/a5a6b226-c201-4c7e-aa75-6d01874f1a83.woff2") format("woff2"), url("averta/09560f34-5e51-44e7-962d-dbb751f7dee4.woff") format("woff"), url("averta/e255f9f8-1b6b-4961-9be7-82bf4ddfae61.ttf") format("truetype"), url("averta/436eed18-016d-4fa6-a985-c8799e189629.svg#436eed18-016d-4fa6-a985-c8799e189629") format("svg");
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Averta W01_n7";
+    src: url("averta/4b210cf6-f4ac-438c-9671-a4472e2ff647.eot?#iefix") format("eot")
+}
+
+@font-face {
+    font-family: "Averta W01";
+    src: url("averta/4b210cf6-f4ac-438c-9671-a4472e2ff647.eot?#iefix");
+    src: url("averta/4b210cf6-f4ac-438c-9671-a4472e2ff647.eot?#iefix") format("eot"), url("averta/91271893-3829-4dc9-a79b-a47b7146022c.woff2") format("woff2"), url("averta/17dd7da6-7e09-45f6-bae4-9a944baed5a6.woff") format("woff"), url("averta/c50d808d-b715-4658-bfa2-d17977b03801.ttf") format("truetype"), url("averta/1af6ffc3-62f7-46ec-a0a4-27dddb17be03.svg#1af6ffc3-62f7-46ec-a0a4-27dddb17be03") format("svg");
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+/**
+ * @license
+ * MyFonts Webfont Build ID 3245266, 2016-07-07T14:58:37-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Lilycat-Regular by Letters&Numbers
+ * URL: http://www.myfonts.com/fonts/letters-numbers/lilycat/regular/
+ * Copyright: Copyright (c) 2015 by Letters &amp; Numbers. All rights reserved.
+ * Licensed pageviews: 20,000
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=3245266
+ * 
+ * © 2016 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+
+@import url("//hello.myfonts.net/count/3184d2");
+@font-face {
+    font-family: 'Lilycat';
+    font-weight: normal;
+    font-style: normal;
+    src: url('lilycat/3184D2_0_0.eot');
+    src: url('lilycat/3184D2_0_0.eot?#iefix') format('embedded-opentype'), url('lilycat/3184D2_0_0.woff2') format('woff2'), url('lilycat/3184D2_0_0.woff') format('woff'), url('lilycat/3184D2_0_0.ttf') format('truetype');
+}
