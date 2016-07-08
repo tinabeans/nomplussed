@@ -41,6 +41,9 @@ ul.nomplussed-is {
   ul.nomplussed-is li {
     margin: 2rem 0; }
 
+.invisible {
+  opacity: 0; }
+
 .main {
   flex-basis: 100%;
   color: #6AC4CD;
